@@ -1,4 +1,4 @@
-streamlit==latest
-pandas==latest
-plotly==latest
+streamlit
+pandas
+plotly
 openpyxl
